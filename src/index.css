@@ -1,0 +1,11 @@
+:root {
+  --root-font-size: 14px;
+  --body-height: 100vh;
+  --text-font-size: 14px;
+  --text-color: rgba(0, 0, 0, 0.5);
+  --text-line-height: 1.6;
+  --text-bold: 600;
+  --text-bold-color: #333333;
+  --logo-size: 80px;
+  --safe-icon-size: 16px;
+}
